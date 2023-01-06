@@ -1,9 +1,9 @@
 # board
 https://fairycode.tistory.com/2
-▲ my blog
+// my blog
 
 https://melonpeach.tistory.com/
-게시판 만들기
+// 게시판 만들기
 
-Spring & Oracle DB
-Java, Sql
+// Spring & Oracle DB
+// Java, Sql
